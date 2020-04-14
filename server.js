@@ -1,6 +1,7 @@
 var express = require("express");
 var cors = require('cors')
 var data = require("./users.json");
+var contactdata = require("./manageusers.json");
 var app = express();
 app.use(cors());
 var port = process.env.PORT || 8000;
@@ -16,7 +17,7 @@ app.get("/user-lists", (req, res, next) => {
 
 app.get("/contactlists", (req, res, next) => {
     // res.json(["Tony", "Lisa", "Michael", "Ginger", "Food"]);
-    res.json(data);
+    res.json(contactdata);
 });
 
 // const data = require('/path/to/users.json')

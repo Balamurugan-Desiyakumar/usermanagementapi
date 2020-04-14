@@ -1,0 +1,53 @@
+{
+    "ok": true,
+    "members": [
+        {
+            "id": "1",
+            "real_name": "Egon",
+            "mailid": "egon@gmail.com",
+            "phone": "8797998889",
+            "company": "Amazon Traders",
+            "address": "No 18, Main Street, Canada"
+        },
+        {
+            "id": "2",
+            "real_name": "Spengler",
+            "mailid": "spengler@gmail.com",
+            "phone": "8797990889",
+            "company": "Amazon Traders",
+            "address": "No 18, Main Street, Canada"
+        },
+        {
+            "id": "3",
+            "real_name": "Thomas",
+            "mailid": "thomas@gmail.com",
+            "phone": "8797990089",
+            "company": "Amazon Traders",
+            "address": "No 18, Main Street, Canada"
+        },
+        {
+            "id": "4",
+            "real_name": "John Mathew",
+            "mailid": "johnmathew@gmail.com",
+            "phone": "8797998887",
+            "company": "Amazon Traders",
+            "address": "No 18, Main Street, Canada"
+        },
+        {
+            "id": "5",
+            "real_name": "Smith",
+            "mailid": "simth@gmail.com",
+            "phone": "8797998854",
+            "company": "Amazon Traders",
+            "address": "No 18, Main Street, Canada"
+        },
+        {
+            "id": "6",
+            "real_name": "Johnson",
+            "mailid": "johnson@gmail.com",
+            "phone": "8797998828",
+            "company": "Amazon Traders",
+            "address": "No 18, Main Street, Canada"
+        }
+    ]
+}

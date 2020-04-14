@@ -14,6 +14,11 @@ app.get("/user-lists", (req, res, next) => {
     res.json(data);
 });
 
+app.get("/contactlists", (req, res, next) => {
+    // res.json(["Tony", "Lisa", "Michael", "Ginger", "Food"]);
+    res.json(data);
+});
+
 // const data = require('/path/to/users.json')
 
 // app.get('/url', (req, res) => {
